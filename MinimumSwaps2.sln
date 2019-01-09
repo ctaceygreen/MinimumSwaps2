@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSwaps2", "MinimumSwaps2\MinimumSwaps2.csproj", "{6A12D16F-547E-4E0B-A7F1-6D884F6E2A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulation", "ArrayManipulation\ArrayManipulation.csproj", "{40391EF7-44D3-48A2-9BCF-3C79C6B77BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A12D16F-547E-4E0B-A7F1-6D884F6E2A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A12D16F-547E-4E0B-A7F1-6D884F6E2A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A12D16F-547E-4E0B-A7F1-6D884F6E2A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A12D16F-547E-4E0B-A7F1-6D884F6E2A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40391EF7-44D3-48A2-9BCF-3C79C6B77BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40391EF7-44D3-48A2-9BCF-3C79C6B77BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40391EF7-44D3-48A2-9BCF-3C79C6B77BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40391EF7-44D3-48A2-9BCF-3C79C6B77BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92154DDB-557F-4606-ADD7-6CCA837C62A8}
+	EndGlobalSection
+EndGlobal
